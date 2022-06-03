@@ -5,8 +5,8 @@ const styles = {
     format: {
         margin: '5px',
         padding: '10px 0px',
-        background: 'gradient(to right, purple, peachpuff)',
-        width: '80vw'
+        background:  'linear-gradient(to bottom right, purple, peachpuff)',
+        width: '100vw',
     },
     header: {
         padding: '0px 0px 20px 30px',

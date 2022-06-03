@@ -6,7 +6,7 @@ const styles = {
         border: '2px solid black',
         width: '100vw',
         padding: '10px',
-        backgroundColor: 'lightblue',
+        background: 'linear-gradient(to top left, purple, peachpuff)',
     },
     listSize: {
         fontSize: '22px'

@@ -1,16 +1,16 @@
 import React from 'react';
 import NavTabs from '../NavTabs';
 
-import WikionBoard from '../../assets/images/WikionBoard.png';
-import plantgallery from '../../assets/images/plantgallery.png';
-import NoteTaker from '../../assets/images/NoteTaker.png';
-import password from '../../assets/images/password.png';
+import WikionBoard from '../../images/WikionBoard.png';
+import plantgallery from '../../images/plantgallery.png';
+import NoteTaker from '../../images/NoteTaker.png';
+import password from '../../images/passwordHW.png';
 
 const styles = {
     format: {
         margin: '5px',
         padding: '10px',
-        backgroundColor: 'purple',
+        background: 'linear-gradient(to bottom right, purple, peachpuff)',
     },
     imgSize: {
         maxWidth: '100%',

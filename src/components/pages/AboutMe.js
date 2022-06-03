@@ -5,8 +5,8 @@ const styles = {
     format: {
         margin: '5px',
         padding: '10px 0px',
-        backgroundColor: 'purple',
-        width: '80vw'
+        background: 'linear-gradient(to bottom right, purple, peachpuff)',
+        width: '100vw'
     },
     aboutme: {
         fontSize: "22px",

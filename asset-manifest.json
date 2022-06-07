@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-based-portfolio/static/js/main.16fd347a.js",
+    "static/media/plantgallery.png": "/react-based-portfolio/static/media/plantgallery.6cbb6b69dd44261d2ee9.png",
+    "static/media/WikionBoard.png": "/react-based-portfolio/static/media/WikionBoard.9816ef58dd39406d0165.png",
+    "static/media/password.png": "/react-based-portfolio/static/media/password.5f5e5979980aa0f0b299.png",
+    "static/media/NoteTaker.png": "/react-based-portfolio/static/media/NoteTaker.48bd21245e6a0bcf1ff9.png",
+    "index.html": "/react-based-portfolio/index.html",
+    "main.16fd347a.js.map": "/react-based-portfolio/static/js/main.16fd347a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.16fd347a.js"
+  ]
+}

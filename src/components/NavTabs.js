@@ -3,10 +3,15 @@ import { Link } from 'react-router-dom';
 
 const styles = {
     navStyle: {
+        display: 'flex',
         border: '2px solid black',
         width: '100vw',
         padding: '10px',
         background: 'linear-gradient(to top left, purple, peachpuff)',
+        margin: '5px',
+        textAlign: 'center'
+        
+
     },
     listSize: {
         fontSize: '22px'

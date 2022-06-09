@@ -18,12 +18,11 @@ export default function home() {
     return (
         <div style={styles.format}>
             <header>
-            <h1 style={styles.header}>Home Page</h1>
                 {NavTabs({})}
+            <h1 style={styles.header}>Kalif Purce</h1>
+                <h2>Welcome, This is my portfolio page! My name is Kalif Purce! On my navigation bar you can find my resume, about me, and my work. I hope you enjoy my site!</h2>
             </header>
-            <h1>
-                Welcome, This is my portfolio page! My name is Kalif Purce!
-            </h1>
+            
         </div>
     );
 }

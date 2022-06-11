@@ -1,12 +1,14 @@
 import React from 'react';
 import NavTabs from '../NavTabs';
 
+
 const styles = {
     format: {
         margin: '5px',
         padding: '10px 0px',
         background: 'linear-gradient(to bottom right, purple, peachpuff)',
-        width: '100vw'
+        width: '100vw',
+        height: '100vh',
     },
     aboutme: {
         fontSize: "22px",

@@ -11,6 +11,7 @@ const styles = {
         margin: '5px',
         padding: '10px',
         background: 'linear-gradient(to bottom right, purple, peachpuff)',
+        height: '100vh',
     },
     imgSize: {
         maxWidth: '100%',

@@ -6,10 +6,12 @@ const styles = {
         display: 'flex',
         border: '2px solid black',
         width: '100vw',
+        height: '100vh',
         padding: '10px',
         background: 'linear-gradient(to top left, purple, peachpuff)',
         margin: '5px',
-        textAlign: 'center'
+        textAlign: 'center',
+        height:'auto'
         
 
     },

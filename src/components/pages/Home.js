@@ -22,7 +22,6 @@ export default function home() {
             <header>
                 {NavTabs({})}
             <h1 style={styles.header}>Kalif Purce</h1>
-            <Image src="https://drive.google.com/file/d/169MD3AQqJgVU-zSZ4375nJhVOkh-q7Li/view?usp=sharing" alt="" /> 
                 <h2>Welcome, This is my portfolio page! My name is Kalif Purce! On my navigation bar you can find my resume, about me, and my work. I hope you enjoy my site!</h2>
             </header>
             

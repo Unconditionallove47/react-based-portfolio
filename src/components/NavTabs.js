@@ -32,7 +32,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                     <Link to='/aboutMe' style={styles.listSize}>About Me</Link>
                 </li>
                 <li className="nav-item">
-                    <Link to='/resume' style={styles.listSize}>My Resume</Link>
+                    <Link to='/resume' style={styles.listSize}>Resume</Link>
                 </li>
                 <li className="nav-item">
                     <Link to='/myWork' style={styles.listSize}>Work</Link>

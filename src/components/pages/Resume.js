@@ -7,8 +7,8 @@ const styles = {
         margin: '5px',
         padding: '10px 0px',
         background: 'linear-gradient(to bottom right, purple, peachpuff)',
-        height: '100vh',
-        width: '100vw', 
+        height: '1000vh',
+        width: '1000vw', 
     }
 }
 

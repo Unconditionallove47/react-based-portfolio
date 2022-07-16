@@ -29,7 +29,7 @@ export default function MyWork() {
             <ul style={styles.format}>
                 <img style={styles.imgSize} src={WikionBoard} alt="collab one" />
                 <a href="https://hseymo.github.io/Activity-Generator" rel="noreferrer" target="_blank">
-                <span style={{fontWeight: 'bold', fontSize: '20px', margin: '10px'}}>A 4 person project to help with boredom.</span>
+                <span style={{fontWeight: 'bold', fontSize: '20px', margin: '10px'}}>A 4 person team project to help with boredom.</span>
                 </a>
                 <img style={styles.imgSize} src={plantgallery} alt="collab two" />
                 <a href="https://secret-waters-02737.herokuapp.com/login" rel="noreferrer" target="_blank">
@@ -41,7 +41,7 @@ export default function MyWork() {
                 </a>
                 <img style={styles.imgSize} src={password} alt="workday planner" />
                 <a href="https://unconditionallove47.github.io/Password-Generator-Homework-/" rel="noreferrer" target="_blank">
-                <span style={{fontWeight: 'bold', fontSize: '20px'}}>A project to help you create a password that is randomly generated.</span>
+                <span style={{fontWeight: 'bold', fontSize: '20px'}}>A team project to help you create a password that is randomly generated.</span>
                 </a>
             </ul>
         </div>

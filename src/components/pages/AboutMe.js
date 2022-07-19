@@ -11,7 +11,7 @@ const styles = {
         height: '100vh',
     },
     aboutme: {
-        fontSize: "22px",
+        fontSize: "23px",
         padding: "30px"
     },
 }
